@@ -1,0 +1,10 @@
+com\j4ltechnologies\formations\Declaration.class
+com\j4ltechnologies\formations\primitifs\TypeChar.class
+com\j4ltechnologies\formations\primitifs\Conversion.class
+com\j4ltechnologies\formations\enumerations\TestTaille.class
+com\j4ltechnologies\formations\operateurs\Operateur.class
+com\j4ltechnologies\formations\enumerations\Taille.class
+com\j4ltechnologies\formations\tableaux\Tableau.class
+com\j4ltechnologies\formations\primitifs\TypeFlottant.class
+com\j4ltechnologies\formations\primitifs\TypeEntier.class
+com\j4ltechnologies\formations\primitifs\TypeBoolean.class

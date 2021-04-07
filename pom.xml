@@ -9,6 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>java-se</module>
+        <module>01_Introduction</module>
+        <module>02_Variables</module>
     </modules>
 
     <packaging>pom</packaging>
